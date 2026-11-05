@@ -1,0 +1,10 @@
+# Environment secrets
+.env
+
+# Java and Maven
+target/
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
